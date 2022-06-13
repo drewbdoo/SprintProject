@@ -1,0 +1,116 @@
+[33mcommit 35350739ebc862baaeeea406b8d944a2b0929ee9[m[33m ([m[1;36mHEAD -> [m[1;32mdevelopment[m[33m, [m[1;31morigin/development[m[33m)[m
+Author: Drew <drewbdoo@gmail.com>
+Date:   Mon Jun 13 09:54:02 2022 -0400
+
+    creating development branch to test merges
+
+[33mcommit 0f93d8f586c7e127b2c71b96caa7523e957bc05d[m[33m ([m[1;31morigin/front_end_dev[m[33m)[m
+Author: Drewbdoo <drewbdoo@gmail.com>
+Date:   Sat Jun 11 15:23:21 2022 -0400
+
+    BLOG-1 BLOG-2 BLOG-3 Updated PostController to deal with getting post by id, further working on front end look at feel
+
+[33mcommit abe94202a9db354b633f94a4ecf7711face804bb[m
+Author: Drewbdoo <drewbdoo@gmail.com>
+Date:   Sat Jun 11 13:40:08 2022 -0400
+
+    fixing repeating background and footer errors
+
+[33mcommit b0d7797488a75175e4f0b6f59ea08b8357a004d9[m
+Author: Drewbdoo <drewbdoo@gmail.com>
+Date:   Sat Jun 11 13:15:40 2022 -0400
+
+    BLOG-1 BLOG-3 BLOG-2 basic structure of main page complete. Create, Update, Delete, and getting at least the first 3 posts implemented. Directs to not yet made Login and Signup controllers made into navbar that persists through web structure
+
+[33mcommit 62e767ec021cc56072c2e7bd1e0a288024046e6e[m
+Author: Drewbdoo <drewbdoo@gmail.com>
+Date:   Sat Jun 11 12:27:40 2022 -0400
+
+    ignore files testing
+
+[33mcommit 17fef556b57035b17f3d0438f2f6c937656902d0[m
+Author: Drewbdoo <drewbdoo@gmail.com>
+Date:   Sat Jun 11 10:59:29 2022 -0400
+
+    changes for elephantmysql implementation. application.properties left out because of user/pass info
+
+[33mcommit 7cf2a1f8bb6bfec0954656310dd2629a989fa1f6[m
+Author: Drewbdoo <drewbdoo@gmail.com>
+Date:   Sat Jun 11 09:52:12 2022 -0400
+
+    small change to Post.java, made sure the post.body column is created as a TEXT field, not a varhar 255
+
+[33mcommit 419d954bfa12653293e4798109671bfeec3ada0c[m
+Author: Drewbdoo <drewbdoo@gmail.com>
+Date:   Fri Jun 10 18:16:53 2022 -0400
+
+    adding timestap functionality, other front end tweaks
+
+[33mcommit 77a3f382455d0c7dfcd763be6d398839f9fb052e[m
+Author: Drewbdoo <drewbdoo@gmail.com>
+Date:   Fri Jun 10 16:50:27 2022 -0400
+
+    front end changes - added fragments, css, HomeController functionality, update and delete buttons
+
+[33mcommit 6025ce63e3ef41da3295f44d133c63f851973b30[m[33m ([m[1;32mmain[m[33m)[m
+Author: Drewbdoo <drewbdoo@gmail.com>
+Date:   Fri Jun 10 15:34:35 2022 -0400
+
+    changing based framework, including all classes/interface/etc
+
+[33mcommit 95bb8a13fa2221dc334ab716a34a1de495450e55[m
+Author: Drewbdoo <drewbdoo@gmail.com>
+Date:   Fri Jun 10 14:37:00 2022 -0400
+
+    BLOG-41 showing jira integration
+
+[33mcommit 64f61810055829018484e8080c7b4281fed5102e[m
+Merge: 70a58dd 9caab35
+Author: Drew <34400283+drewbdoo@users.noreply.github.com>
+Date:   Fri Jun 10 12:41:33 2022 -0400
+
+    Merge pull request #1 from drewbdoo/front_end_dev
+    
+    testing branch, added comment to html
+
+[33mcommit 9caab35eb08e2be695e8d58573e3ebb6561b003c[m
+Author: Drewbdoo <drewbdoo@gmail.com>
+Date:   Fri Jun 10 12:37:25 2022 -0400
+
+    testing branch, added comment to html
+
+[33mcommit 70a58dd19a8eaf318a79b9eb39ef7975f0f71a11[m
+Author: Drewbdoo <drewbdoo@gmail.com>
+Date:   Fri Jun 10 12:12:49 2022 -0400
+
+    removing postrgree login info
+
+[33mcommit 5ad8b6290952aedc50ae6ffbbfab65bbc1427584[m
+Author: Drewbdoo <drewbdoo@gmail.com>
+Date:   Fri Jun 10 11:21:24 2022 -0400
+
+    removing html
+
+[33mcommit 7587d2887f561a827beec66f0fe66a96fb5748eb[m
+Author: Drewbdoo <drewbdoo@gmail.com>
+Date:   Fri Jun 10 10:58:25 2022 -0400
+
+    updating html
+
+[33mcommit 1be2deef1068073032a6c58c999b24ae12ce4921[m
+Author: Drewbdoo <drewbdoo@gmail.com>
+Date:   Fri Jun 10 10:29:32 2022 -0400
+
+    repo init, basic post CRUD functionality, sql DB currently called demo1
+
+[33mcommit 372a9eb2924c97be2e6f4dc4a335ecfb9f729a58[m
+Author: Drew <drewbdoo@gmail.com>
+Date:   Mon Jun 6 14:32:46 2022 -0400
+
+    finishing part 7
+
+[33mcommit f15a3ccb017cdac6af7b2b83a9619db9e87e5492[m
+Author: Drew <drewbdoo@gmail.com>
+Date:   Mon Jun 6 13:51:14 2022 -0400
+
+    init repo
